@@ -1,5 +1,2 @@
-
-
-拷贝至桌面运行
-
-（TKinter无法在此文件路径下加载）
+A digital 3x3x3 Rubik's Cube \
+Interface: Tkinter
